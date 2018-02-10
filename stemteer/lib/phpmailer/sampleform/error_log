@@ -1,0 +1,21 @@
+[05-Oct-2016 20:10:45 America/Denver] PHP Notice:  Use of undefined constant mmuu - assumed 'mmuu' in /home1/elchiher/public_html/lib/phpmailer/sampleform/test11.php on line 4
+[05-Oct-2016 20:10:45 America/Denver] PHP Notice:  Use of undefined constant yfpi - assumed 'yfpi' in /home1/elchiher/public_html/lib/phpmailer/sampleform/test11.php on line 6
+[05-Oct-2016 20:10:45 America/Denver] PHP Notice:  Use of undefined constant ivmq - assumed 'ivmq' in /home1/elchiher/public_html/lib/phpmailer/sampleform/test11.php on line 6
+[11-Oct-2016 13:57:33 America/Denver] PHP Notice:  Use of undefined constant mmuu - assumed 'mmuu' in /home1/elchiher/public_html/lib/phpmailer/sampleform/test11.php on line 4
+[11-Oct-2016 13:57:33 America/Denver] PHP Notice:  Use of undefined constant yfpi - assumed 'yfpi' in /home1/elchiher/public_html/lib/phpmailer/sampleform/test11.php on line 6
+[11-Oct-2016 13:57:33 America/Denver] PHP Notice:  Use of undefined constant ivmq - assumed 'ivmq' in /home1/elchiher/public_html/lib/phpmailer/sampleform/test11.php on line 6
+[18-Oct-2016 11:16:37 America/Denver] PHP Notice:  Use of undefined constant mmuu - assumed 'mmuu' in /home1/elchiher/public_html/lib/phpmailer/sampleform/test11.php on line 4
+[18-Oct-2016 11:16:37 America/Denver] PHP Notice:  Use of undefined constant yfpi - assumed 'yfpi' in /home1/elchiher/public_html/lib/phpmailer/sampleform/test11.php on line 6
+[18-Oct-2016 11:16:37 America/Denver] PHP Notice:  Use of undefined constant ivmq - assumed 'ivmq' in /home1/elchiher/public_html/lib/phpmailer/sampleform/test11.php on line 6
+[25-Oct-2016 08:56:06] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/elchiher/public_html/lib/phpmailer/sampleform/test11.php(6) : runtime-created function on line 1
+[25-Oct-2016 08:56:06] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home1/elchiher/public_html/lib/phpmailer/sampleform/test11.php(6) : runtime-created function on line 1
+[25-Oct-2016 08:56:06] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/elchiher/public_html/lib/phpmailer/sampleform/test11.php(6) : runtime-created function on line 1
+[25-Oct-2016 08:56:06] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home1/elchiher/public_html/lib/phpmailer/sampleform/test11.php(6) : runtime-created function on line 1
+[25-Oct-2016 08:56:06] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/elchiher/public_html/lib/phpmailer/sampleform/test11.php(6) : runtime-created function on line 1
+[25-Oct-2016 08:56:06] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home1/elchiher/public_html/lib/phpmailer/sampleform/test11.php(6) : runtime-created function on line 1
+[25-Oct-2016 08:56:06] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/elchiher/public_html/lib/phpmailer/sampleform/test11.php(6) : runtime-created function on line 1
+[25-Oct-2016 08:56:06] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home1/elchiher/public_html/lib/phpmailer/sampleform/test11.php(6) : runtime-created function on line 1
+[25-Oct-2016 08:56:06] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/elchiher/public_html/lib/phpmailer/sampleform/test11.php(6) : runtime-created function on line 1
+[25-Oct-2016 08:56:06] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home1/elchiher/public_html/lib/phpmailer/sampleform/test11.php(6) : runtime-created function on line 1
+[25-Oct-2016 08:56:06] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/elchiher/public_html/lib/phpmailer/sampleform/test11.php(6) : runtime-created function on line 1
+[25-Oct-2016 08:56:06] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home1/elchiher/public_html/lib/phpmailer/sampleform/test11.php(6) : runtime-created function on line 1

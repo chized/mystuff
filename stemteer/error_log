@@ -1,0 +1,336 @@
+[25-Sep-2016 00:41:08 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home1/elchiher/public_html/login.php on line 98
+[25-Sep-2016 00:41:08 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 99
+[25-Sep-2016 00:41:08 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 100
+[25-Sep-2016 00:41:08 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 105
+[25-Sep-2016 00:41:08 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 107
+[25-Sep-2016 00:41:27 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home1/elchiher/public_html/login.php on line 98
+[25-Sep-2016 00:41:27 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 99
+[25-Sep-2016 00:41:27 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 100
+[25-Sep-2016 00:41:27 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 105
+[25-Sep-2016 00:41:27 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 107
+[25-Sep-2016 00:42:51 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home1/elchiher/public_html/login.php on line 98
+[25-Sep-2016 00:42:51 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 99
+[25-Sep-2016 00:42:51 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 100
+[25-Sep-2016 00:42:51 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 105
+[25-Sep-2016 00:42:51 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 107
+[25-Sep-2016 00:50:27 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home1/elchiher/public_html/login.php on line 98
+[25-Sep-2016 00:50:27 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 99
+[25-Sep-2016 00:50:27 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 100
+[25-Sep-2016 00:50:27 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 105
+[25-Sep-2016 00:50:27 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 107
+[25-Sep-2016 00:53:06 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home1/elchiher/public_html/login.php on line 98
+[25-Sep-2016 00:53:06 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 99
+[25-Sep-2016 00:53:06 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 100
+[25-Sep-2016 00:53:06 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 105
+[25-Sep-2016 00:53:06 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 107
+[26-Sep-2016 11:21:27 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 98
+[26-Sep-2016 11:21:27 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 99
+[26-Sep-2016 11:21:27 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 100
+[26-Sep-2016 11:21:27 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 105
+[26-Sep-2016 11:21:27 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 107
+[26-Sep-2016 11:21:43 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 98
+[26-Sep-2016 11:21:43 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 99
+[26-Sep-2016 11:21:43 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 100
+[26-Sep-2016 11:21:43 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 105
+[26-Sep-2016 11:21:43 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 107
+[26-Sep-2016 11:23:32 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 98
+[26-Sep-2016 11:23:32 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 99
+[26-Sep-2016 11:23:32 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 100
+[26-Sep-2016 11:23:32 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 105
+[26-Sep-2016 11:23:32 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 107
+[26-Sep-2016 11:24:25 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 98
+[26-Sep-2016 11:24:25 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 99
+[26-Sep-2016 11:24:25 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 100
+[26-Sep-2016 11:24:25 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 105
+[26-Sep-2016 11:24:25 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 107
+[26-Sep-2016 11:26:58 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 98
+[26-Sep-2016 11:26:58 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 99
+[26-Sep-2016 11:26:58 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 100
+[26-Sep-2016 11:26:58 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 105
+[26-Sep-2016 11:26:58 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 107
+[26-Sep-2016 15:21:11 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 98
+[26-Sep-2016 15:21:11 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 99
+[26-Sep-2016 15:21:11 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 100
+[26-Sep-2016 15:21:11 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 105
+[26-Sep-2016 15:21:11 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 107
+[26-Sep-2016 15:21:21 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 98
+[26-Sep-2016 15:21:21 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 99
+[26-Sep-2016 15:21:21 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 100
+[26-Sep-2016 15:21:21 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 105
+[26-Sep-2016 15:21:21 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 107
+[26-Sep-2016 15:21:33 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 98
+[26-Sep-2016 15:21:33 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 99
+[26-Sep-2016 15:21:33 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 100
+[26-Sep-2016 15:21:33 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 105
+[26-Sep-2016 15:21:33 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 107
+[26-Sep-2016 15:22:10 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 98
+[26-Sep-2016 15:22:10 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 99
+[26-Sep-2016 15:22:10 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 100
+[26-Sep-2016 15:22:10 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 105
+[26-Sep-2016 15:22:10 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 107
+[26-Sep-2016 15:23:28 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/signup.php on line 77
+[26-Sep-2016 15:23:28 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/signup.php on line 78
+[26-Sep-2016 15:23:28 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/signup.php on line 79
+[26-Sep-2016 15:23:28 America/Denver] PHP Warning:  mysqli_multi_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/signup.php on line 94
+[26-Sep-2016 15:23:28 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/signup.php on line 117
+[26-Sep-2016 15:24:01 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/signup.php on line 77
+[26-Sep-2016 15:24:01 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/signup.php on line 78
+[26-Sep-2016 15:24:01 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/signup.php on line 79
+[26-Sep-2016 15:24:01 America/Denver] PHP Warning:  mysqli_multi_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/signup.php on line 94
+[26-Sep-2016 15:24:01 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/signup.php on line 117
+[26-Sep-2016 15:28:32 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 98
+[26-Sep-2016 15:28:32 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 99
+[26-Sep-2016 15:28:32 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 100
+[26-Sep-2016 15:28:32 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 105
+[26-Sep-2016 15:28:32 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 107
+[26-Sep-2016 15:30:03 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 98
+[26-Sep-2016 15:30:03 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 99
+[26-Sep-2016 15:30:03 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 100
+[26-Sep-2016 15:30:03 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 105
+[26-Sep-2016 15:30:03 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 107
+[26-Sep-2016 15:31:28 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 98
+[26-Sep-2016 15:31:28 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 99
+[26-Sep-2016 15:31:28 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 100
+[26-Sep-2016 15:31:28 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 105
+[26-Sep-2016 15:31:28 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 107
+[26-Sep-2016 15:51:13 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 98
+[26-Sep-2016 15:51:13 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 99
+[26-Sep-2016 15:51:13 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 100
+[26-Sep-2016 15:51:13 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 105
+[26-Sep-2016 15:51:13 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 107
+[26-Sep-2016 15:51:28 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 98
+[26-Sep-2016 15:51:28 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 99
+[26-Sep-2016 15:51:28 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 100
+[26-Sep-2016 15:51:28 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 105
+[26-Sep-2016 15:51:28 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 107
+[26-Sep-2016 15:55:49 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 98
+[26-Sep-2016 15:55:49 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 99
+[26-Sep-2016 15:55:49 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 100
+[26-Sep-2016 15:55:49 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 105
+[26-Sep-2016 15:55:49 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 107
+[26-Sep-2016 15:55:58 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 98
+[26-Sep-2016 15:55:58 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 99
+[26-Sep-2016 15:55:58 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 100
+[26-Sep-2016 15:55:58 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 105
+[26-Sep-2016 15:55:58 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 107
+[26-Sep-2016 16:02:45 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 98
+[26-Sep-2016 16:02:45 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 99
+[26-Sep-2016 16:02:45 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 100
+[26-Sep-2016 16:02:45 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 105
+[26-Sep-2016 16:02:45 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 107
+[26-Sep-2016 16:15:02 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 98
+[26-Sep-2016 16:15:02 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 99
+[26-Sep-2016 16:15:02 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 100
+[26-Sep-2016 16:15:02 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 105
+[26-Sep-2016 16:15:02 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 107
+[26-Sep-2016 16:25:23 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[26-Sep-2016 16:25:23 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[26-Sep-2016 16:25:23 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 103
+[26-Sep-2016 16:25:23 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[26-Sep-2016 16:25:23 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[26-Sep-2016 16:30:43 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[26-Sep-2016 16:30:43 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[26-Sep-2016 16:30:43 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 103
+[26-Sep-2016 16:30:43 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[26-Sep-2016 16:30:43 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[26-Sep-2016 16:37:48 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[26-Sep-2016 16:37:48 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[26-Sep-2016 16:37:48 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 103
+[26-Sep-2016 16:37:48 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[26-Sep-2016 16:37:48 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[26-Sep-2016 16:47:01 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[26-Sep-2016 16:47:01 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[26-Sep-2016 16:47:01 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 103
+[26-Sep-2016 16:47:01 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[26-Sep-2016 16:47:01 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[26-Sep-2016 16:50:27 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[26-Sep-2016 16:50:27 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[26-Sep-2016 16:50:27 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 103
+[26-Sep-2016 16:50:27 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[26-Sep-2016 16:50:27 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[26-Sep-2016 16:53:44 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[26-Sep-2016 16:53:44 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[26-Sep-2016 16:53:44 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 103
+[26-Sep-2016 16:53:44 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[26-Sep-2016 16:53:44 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[26-Sep-2016 16:54:01 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[26-Sep-2016 16:54:01 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[26-Sep-2016 16:54:01 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 103
+[26-Sep-2016 16:54:01 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[26-Sep-2016 16:54:01 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[26-Sep-2016 16:56:02 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin@elchi-heron.com'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[26-Sep-2016 16:56:02 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[26-Sep-2016 16:56:02 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 103
+[26-Sep-2016 16:56:02 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[26-Sep-2016 16:56:02 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[26-Sep-2016 16:57:28 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[26-Sep-2016 16:57:28 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[26-Sep-2016 16:57:28 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 103
+[26-Sep-2016 16:57:28 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[26-Sep-2016 16:57:28 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[26-Sep-2016 17:00:10 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[26-Sep-2016 17:00:10 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[26-Sep-2016 17:00:10 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 103
+[26-Sep-2016 17:00:10 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[26-Sep-2016 17:00:10 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[26-Sep-2016 17:01:56 America/Denver] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://elchi-heron.com' (0) in /home1/elchiher/public_html/login.php on line 101
+[26-Sep-2016 17:01:56 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[26-Sep-2016 17:01:56 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 103
+[26-Sep-2016 17:01:56 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[26-Sep-2016 17:01:56 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[26-Sep-2016 17:03:16 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[26-Sep-2016 17:03:16 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[26-Sep-2016 17:03:16 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 103
+[26-Sep-2016 17:03:16 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[26-Sep-2016 17:03:16 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[26-Sep-2016 17:03:26 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[26-Sep-2016 17:03:26 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[26-Sep-2016 17:03:26 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 103
+[26-Sep-2016 17:03:26 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[26-Sep-2016 17:03:26 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[26-Sep-2016 17:09:25 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[26-Sep-2016 17:09:25 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[26-Sep-2016 17:09:25 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 103
+[26-Sep-2016 17:09:25 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[26-Sep-2016 17:09:25 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[26-Sep-2016 17:10:43 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[26-Sep-2016 17:10:43 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[26-Sep-2016 17:10:43 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 103
+[26-Sep-2016 17:10:43 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[26-Sep-2016 17:10:43 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[26-Sep-2016 20:51:18 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[26-Sep-2016 20:51:18 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[26-Sep-2016 20:51:18 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[26-Sep-2016 20:51:18 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[26-Sep-2016 23:26:13 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[26-Sep-2016 23:26:13 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[26-Sep-2016 23:26:13 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[26-Sep-2016 23:26:13 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[26-Sep-2016 23:28:57 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[26-Sep-2016 23:28:57 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[26-Sep-2016 23:28:57 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[26-Sep-2016 23:28:57 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[26-Sep-2016 23:41:43 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[26-Sep-2016 23:41:43 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[26-Sep-2016 23:41:43 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[26-Sep-2016 23:41:43 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[26-Sep-2016 23:42:28 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[26-Sep-2016 23:42:28 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[26-Sep-2016 23:42:28 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[26-Sep-2016 23:42:28 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[27-Sep-2016 00:03:17 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[27-Sep-2016 00:03:17 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[27-Sep-2016 00:03:17 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[27-Sep-2016 00:03:17 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[27-Sep-2016 00:06:32 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[27-Sep-2016 00:06:32 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 103
+[27-Sep-2016 00:06:32 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[27-Sep-2016 00:06:32 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[27-Sep-2016 00:08:37 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[27-Sep-2016 00:08:37 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 103
+[27-Sep-2016 00:08:37 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[27-Sep-2016 00:08:37 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[27-Sep-2016 00:08:56 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[27-Sep-2016 00:08:56 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[27-Sep-2016 00:08:56 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[27-Sep-2016 00:15:13 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[27-Sep-2016 00:15:13 America/Denver] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/elchiher/public_html/login.php on line 108
+[27-Sep-2016 00:15:13 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[27-Sep-2016 00:16:10 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[27-Sep-2016 00:16:10 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home1/elchiher/public_html/login.php on line 108
+[27-Sep-2016 00:16:10 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[27-Sep-2016 00:18:14 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[27-Sep-2016 00:18:14 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home1/elchiher/public_html/login.php on line 108
+[27-Sep-2016 00:18:14 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[27-Sep-2016 00:18:20 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[27-Sep-2016 00:18:20 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home1/elchiher/public_html/login.php on line 108
+[27-Sep-2016 00:18:20 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[27-Sep-2016 00:20:01 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[27-Sep-2016 00:20:01 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 103
+[27-Sep-2016 00:20:01 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[27-Sep-2016 00:20:01 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[27-Sep-2016 00:20:14 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[27-Sep-2016 00:20:14 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 103
+[27-Sep-2016 00:20:14 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[27-Sep-2016 00:20:14 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[27-Sep-2016 00:21:19 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[27-Sep-2016 00:21:19 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[27-Sep-2016 00:21:19 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 103
+[27-Sep-2016 00:21:19 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[27-Sep-2016 00:21:19 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[27-Sep-2016 00:25:49 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[27-Sep-2016 00:25:49 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[27-Sep-2016 00:25:49 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 103
+[27-Sep-2016 00:25:49 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[27-Sep-2016 00:25:49 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[27-Sep-2016 00:31:58 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[27-Sep-2016 00:31:58 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[27-Sep-2016 00:31:58 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 103
+[27-Sep-2016 00:31:58 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[27-Sep-2016 00:31:58 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[27-Sep-2016 00:32:26 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[27-Sep-2016 00:32:26 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[27-Sep-2016 00:32:26 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 103
+[27-Sep-2016 00:32:26 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[27-Sep-2016 00:32:26 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[27-Sep-2016 00:32:52 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[27-Sep-2016 00:32:52 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[27-Sep-2016 00:32:52 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 103
+[27-Sep-2016 00:32:52 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[27-Sep-2016 00:32:52 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[27-Sep-2016 00:45:44 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[27-Sep-2016 00:45:44 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[27-Sep-2016 00:45:44 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 103
+[27-Sep-2016 00:45:44 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[27-Sep-2016 00:45:44 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[27-Sep-2016 11:07:00 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[27-Sep-2016 11:07:00 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[27-Sep-2016 11:07:00 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 103
+[27-Sep-2016 11:07:00 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[27-Sep-2016 11:07:00 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[28-Sep-2016 12:22:03 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elchiher_admin'@'box429.bluehost.com' (using password: YES) in /home1/elchiher/public_html/login.php on line 101
+[28-Sep-2016 12:22:03 America/Denver] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 102
+[28-Sep-2016 12:22:03 America/Denver] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 103
+[28-Sep-2016 12:22:03 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/login.php on line 108
+[28-Sep-2016 12:22:03 America/Denver] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/elchiher/public_html/login.php on line 110
+[01-Oct-2016 01:31:41 America/Denver] PHP Warning:  require(public_html/PHPMailer-master/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home1/elchiher/public_html/mail.php on line 2
+[01-Oct-2016 01:31:41 America/Denver] PHP Fatal error:  require(): Failed opening required 'public_html/PHPMailer-master/PHPMailerAutoload.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/elchiher/public_html/mail.php on line 2
+[01-Oct-2016 02:31:14 America/Denver] PHP Warning:  require(public_html/PHPMailer-master/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home1/elchiher/public_html/mail.php on line 2
+[01-Oct-2016 02:31:14 America/Denver] PHP Fatal error:  require(): Failed opening required 'public_html/PHPMailer-master/PHPMailerAutoload.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/elchiher/public_html/mail.php on line 2
+[01-Oct-2016 02:40:25 America/Denver] PHP Warning:  require(public_html/PHPMailer-master/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home1/elchiher/public_html/mail.php on line 2
+[01-Oct-2016 02:40:25 America/Denver] PHP Fatal error:  require(): Failed opening required 'public_html/PHPMailer-master/PHPMailerAutoload.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/elchiher/public_html/mail.php on line 2
+[23-Oct-2016 22:40:08] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/elchiher/public_html/signup.php on line 63
+[23-Oct-2016 22:40:08] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/signup.php on line 64
+[23-Oct-2016 22:40:08] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/signup.php on line 65
+[23-Oct-2016 22:40:08] PHP Warning:  mysqli_multi_query() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/signup.php on line 80
+[23-Oct-2016 22:40:08] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/elchiher/public_html/signup.php on line 104
+[23-Oct-2016 22:43:32] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/signup.php:17) in /home1/elchiher/public_html/signup.php on line 101
+[23-Oct-2016 22:44:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:20) in /home1/elchiher/public_html/login.php on line 103
+[23-Oct-2016 22:57:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:20) in /home1/elchiher/public_html/login.php on line 103
+[23-Oct-2016 22:58:05] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:20) in /home1/elchiher/public_html/login.php on line 103
+[23-Oct-2016 22:59:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:20) in /home1/elchiher/public_html/login.php on line 103
+[23-Oct-2016 23:04:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:23) in /home1/elchiher/public_html/login.php on line 107
+[23-Oct-2016 23:10:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:21) in /home1/elchiher/public_html/login.php on line 104
+[25-Oct-2016 00:48:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:21) in /home1/elchiher/public_html/login.php on line 103
+[25-Oct-2016 00:48:18] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:21) in /home1/elchiher/public_html/login.php on line 103
+[25-Oct-2016 00:48:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:21) in /home1/elchiher/public_html/login.php on line 103
+[25-Oct-2016 00:49:34] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:21) in /home1/elchiher/public_html/login.php on line 103
+[25-Oct-2016 00:57:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:21) in /home1/elchiher/public_html/login.php on line 103
+[25-Oct-2016 00:57:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:21) in /home1/elchiher/public_html/login.php on line 103
+[25-Oct-2016 00:59:23] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:19) in /home1/elchiher/public_html/login.php on line 99
+[25-Oct-2016 01:09:02] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:18) in /home1/elchiher/public_html/login.php on line 95
+[25-Oct-2016 01:11:04] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:18) in /home1/elchiher/public_html/login.php on line 94
+[25-Oct-2016 01:11:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:18) in /home1/elchiher/public_html/login.php on line 94
+[25-Oct-2016 01:11:31] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:18) in /home1/elchiher/public_html/login.php on line 94
+[25-Oct-2016 01:12:32] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:17) in /home1/elchiher/public_html/login.php on line 94
+[25-Oct-2016 01:19:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:17) in /home1/elchiher/public_html/login.php on line 94
+[25-Oct-2016 01:19:49] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:17) in /home1/elchiher/public_html/login.php on line 94
+[25-Oct-2016 01:26:08] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:17) in /home1/elchiher/public_html/login.php on line 94
+[25-Oct-2016 01:26:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:17) in /home1/elchiher/public_html/login.php on line 94
+[25-Oct-2016 01:26:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:17) in /home1/elchiher/public_html/login.php on line 94
+[25-Oct-2016 01:27:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:17) in /home1/elchiher/public_html/login.php on line 94
+[25-Oct-2016 01:28:40] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:19) in /home1/elchiher/public_html/login.php on line 101
+[25-Oct-2016 01:30:38] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:19) in /home1/elchiher/public_html/login.php on line 103
+[26-Oct-2016 07:15:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:19) in /home1/elchiher/public_html/login.php on line 103
+[26-Oct-2016 14:25:31] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:19) in /home1/elchiher/public_html/login.php on line 103
+[28-Oct-2016 12:41:23] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/elchiher/public_html/login.php:28) in /home1/elchiher/public_html/login.php on line 30
